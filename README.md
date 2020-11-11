@@ -1,0 +1,2 @@
+# Time-Series-Forecasting
+To analyse and predict the discretionary retail spending of the consumers as this data series ignores the staple food spending. The data series is not seasonally adjusted and the sales figures are absolute sales figures in the dollar amount in millions. I will also use monthly personal income per capita data series to see if both the data series - income and retail sales- are co-integrated and if the personal income per capita can be used to predict the retail sales.
